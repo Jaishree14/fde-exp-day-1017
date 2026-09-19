@@ -8,6 +8,7 @@ namespace BankingApp.Tools;
 /// </summary>
 public sealed partial class PhoneNormalizer
 {
+    //comment
     /// <summary>Normalizes a US phone number to E.164-ish form: +1XXXXXXXXXX.</summary>
    public string NormalizePhone(string phone)
 {
